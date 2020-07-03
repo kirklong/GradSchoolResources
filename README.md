@@ -2,10 +2,10 @@
 Providing all of my graduate school application materials + some unsolicited advice to anyone currently going through the hell that is grad apps. 
 
 
-# What you will find here
+## What you will find here
 This github hosts a snapshot frozen in time of all of my graduate school application materials, in the hope that they may help others currently struggling through the process. I've included ***everything*** I ever wrote (probably too much material tbh), but you're probably most interested in the documents in the `final drafts` folder as those are the statements I actually submitted. I also included the version of my CV that went out with most of my graduate applications -- if you are interested in the tex code that generates it you can find that in my current CV repository here on github. 
 
-# My stats
+## My stats
 Before I offer you unsolicited advice, I suppose you might want to know all of my other stats. I offer these here in the interest of full transparency, but *please do not compare yourself too much* -- you are not just a set of numbers on an application, and I firmly believe the strongest part of your application will lie in your statements and recommendation letters. To be frank, any program that sees you just as a list of stats is probably not a place you want to be anyways. With that disclaimer out of the way, here's all of my numbers:
 
 * My GPA at the time I applied was about 3.86 (see CV)
